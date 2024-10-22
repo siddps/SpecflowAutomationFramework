@@ -1,2 +1,2 @@
 # SpecflowAutomationFramework
-This project is to 
+This project is a sample project for self learning of c#, selenium, specflow, Ilog, etc
